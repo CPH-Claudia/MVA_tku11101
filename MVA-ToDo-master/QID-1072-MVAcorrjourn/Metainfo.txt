@@ -1,0 +1,22 @@
+﻿Name of QuantLet: MVAcorrjourn
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Performs a correspondence analysis for the Belgian journal data, shows the eigenvalues of the singular value decomposition of the chi-matrix and displays graphically its factorial decomposition.
+
+Keywords: correspondence-analysis, svd, decomposition, factorial-decomposition, eigenvalues, factorial, plot, graphical representation, data visualization, sas
+
+See also: MVAcorrCar, MVAcorrEyeHair, MVAcorrbac, MVAcorrcrime, SMScorrcrime, SMScorrcarm, SMScorrfood, SMScorrhealth
+
+Author: Zografia Anastasiadou
+Author[SAS]: Svetlana Bykovskaya
+Author[Matlab]: Wolfgang K. Härdle, Jorge Patron, Vladimir Georgescu, Song Song
+
+Submitted: Tue, May 10 2011 by Zografia Anastasiadou
+Submitted[SAS]: Tue, April 05 2016 by Svetlana Bykovskaya
+Submitted[Matlab]: Fri, December 16 by Piedad Castro
+
+Datafile: journaux.dat
+
+Note: 'Matlab and SAS decompose matrices differently than R, and therefore some 
+      of the eigenvectors may have different signs.'
